@@ -95,7 +95,7 @@ import time
 a = time.strftime("%Y/%m/%d %H:%M:%S")   # %Y:년, %m:월, %d:일, %H:시, %M:분, %S:초
 print(a)
 
-#14
+#13
 import random
 result = []
 while len(result) < 6:
@@ -104,3 +104,5 @@ while len(result) < 6:
         result.append(num)
 
 print(result)
+
+#pm5:50 오늘을 풀이 보면서 했음 말이안됨 ㅠ
